@@ -52,9 +52,7 @@ const AboutMe = () => {
           </div>
         </div>
       </div>
-      <div>
-        qwertyuiop[asdfghjkl;zxcvbnm,.]
-      </div>
+     
     </div>
   );
 };
