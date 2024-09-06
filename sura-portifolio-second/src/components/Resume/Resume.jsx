@@ -193,7 +193,7 @@ const Resume = () => {
       {renderContent()}
       </div>
     </div>
-    <div>qazqwerftyhujiopasdfghjkl</div>
+    {/* <div>qazqwerftyhujiopasdfghjkl</div> */}
     </div>
   );
 };

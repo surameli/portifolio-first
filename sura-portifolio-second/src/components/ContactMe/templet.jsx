@@ -1,4 +1,4 @@
-// import React, { useState } from 'react';
+/* // import React, { useState } from 'react';
 // import './resume.css';
 // import SchoolIcon from '@mui/icons-material/School';
 // import HistoryIcon from '@mui/icons-material/History';
@@ -275,4 +275,4 @@
 //     font-weight: bold;
 //     color: #007BFF; /* Optional: Customize color for emphasis */
 //   }
-  
+   

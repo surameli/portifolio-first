@@ -3,6 +3,8 @@ import Header from '../../components/Header/Header'
 import Profile from '../../components/Banner/Profile/Profile'
 import AboutMe from '../../components/AboutMe/AboutMe'
 import Resume from '../../components/Resume/Resume'
+
+// import ContactMe from '../../components/ContactMe/ContactMe'
 const Home = () => {
   return (
     <>
@@ -10,6 +12,7 @@ const Home = () => {
     <Profile/>
     <AboutMe/>
     <Resume/>
+    {/* <ContactMe/> */}
     </>
   )
 }
